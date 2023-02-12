@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white" height="35px"/>
     <img src="https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=white" height="35px">
     <img src="https://img.shields.io/badge/-CSS-563D7C?&logo=CSS3&logoColor=white" height="35px"/>
+    <img src="https://img.shields.io/badge/-HTML-red?&logo=CSS3&logoColor=white" height="35px"/>
     <img src="https://img.shields.io/badge/-SQLite3-003B57?&logo=SQLite&logoColor=white" height="35px"/>
     <img src="https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white" height="35px"/>
     <img src="https://img.shields.io/badge/-Jinja-008080?&logo=Jinja2&logoColor=white" height="35px"/>
